@@ -1,0 +1,8 @@
+fastapi==0.115.0
+uvicorn[standard]==0.30.6
+sqlalchemy==2.0.35
+pydantic==2.9.2
+robotframework==7.1.1
+robotframework-seleniumlibrary==6.6.1
+selenium==4.25.0
+python-multipart==0.0.9
